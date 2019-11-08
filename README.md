@@ -14,6 +14,11 @@ Technology: 1
 Entertainment: 2
 Business: 3
 
+APPROACH:
+ALGORITHM: XGBOOST with KFold Validation
+Basemodel: Trained with simple features extracted from the text
+NewModel : Text Features + Base model features
+
 Achieved Accuracy: 0.9580602883355177
 
 Hackathon Link : https://www.machinehack.com/course/predict-the-news-category-hackathon/
