@@ -15,3 +15,5 @@ Entertainment: 2
 Business: 3
 
 Achieved Accuracy: 0.9580602883355177
+
+Hackathon Link : https://www.machinehack.com/course/predict-the-news-category-hackathon/
