@@ -4,7 +4,8 @@ Size of test set: 2,748 records
 
 FEATURES:
 
-STORY:  A part of the main content of the article to be published as a piece of news.
+STORY:  A part of the main content of the article to be published as a piece of news
+
 SECTION: The genre/category the STORY falls in.
 
 There are four distinct sections where each story may fall in to. The Sections are labelled as follows :
